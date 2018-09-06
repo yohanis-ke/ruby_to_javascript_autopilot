@@ -1,4 +1,3 @@
-
 def get_new_car
   {
     city: 'Toronto',
